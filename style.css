@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  gap: 1rem;
+}
+
+.columnFirst {
+  height: 95vh;
+  flex-basis: 25%;
+  border: solid 1px gray;
+}
+
+
+.columnSecund {
+  flex: 1;
+  height: 95vh;
+  border: solid 1px purple;
+}
